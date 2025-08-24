@@ -1,0 +1,100 @@
+Log File Created: 2024-11-22 20:35:17.117582
+
+Masters Summary:
+Swarm ID: 7, Total Master Duration: 45 seconds
+Swarm ID: 4, Total Master Duration: 19 seconds
+Swarm ID: 6, Total Master Duration: 22 seconds
+
+Raw Data Logs:
+
+IP: 172.20.10.7
+Time: 2024-11-22 20:35:07.121484, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:07.205522, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:07.308627, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:07.430942, Swarm ID: 7, Reading: 328
+Time: 2024-11-22 20:35:07.532515, Swarm ID: 7, Reading: 327
+Time: 2024-11-22 20:35:07.650436, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:07.750493, Swarm ID: 7, Reading: 328
+Time: 2024-11-22 20:35:07.861018, Swarm ID: 7, Reading: 327
+Time: 2024-11-22 20:35:07.986091, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:08.088231, Swarm ID: 7, Reading: 325
+Time: 2024-11-22 20:35:08.195056, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:08.302682, Swarm ID: 7, Reading: 326
+Time: 2024-11-22 20:35:08.590134, Swarm ID: 7, Reading: 328
+Time: 2024-11-22 20:35:08.605213, Swarm ID: 7, Reading: 324
+Time: 2024-11-22 20:35:08.656394, Swarm ID: 7, Reading: 328
+Time: 2024-11-22 20:35:08.755130, Swarm ID: 7, Reading: 327
+Time: 2024-11-22 20:35:08.858147, Swarm ID: 7, Reading: 325
+Time: 2024-11-22 20:35:08.968346, Swarm ID: 7, Reading: 322
+Time: 2024-11-22 20:35:09.231500, Swarm ID: 7, Reading: 321
+Time: 2024-11-22 20:35:09.241639, Swarm ID: 7, Reading: 319
+Time: 2024-11-22 20:35:09.292933, Swarm ID: 7, Reading: 302
+Time: 2024-11-22 20:35:09.403978, Swarm ID: 7, Reading: 278
+Time: 2024-11-22 20:35:09.514482, Swarm ID: 7, Reading: 297
+Time: 2024-11-22 20:35:09.626582, Swarm ID: 7, Reading: 319
+Time: 2024-11-22 20:35:09.726636, Swarm ID: 7, Reading: 316
+Time: 2024-11-22 20:35:10.009524, Swarm ID: 7, Reading: 317
+Time: 2024-11-22 20:35:10.011476, Swarm ID: 7, Reading: 283
+Time: 2024-11-22 20:35:10.065674, Swarm ID: 7, Reading: 231
+Time: 2024-11-22 20:35:10.166944, Swarm ID: 7, Reading: 217
+Time: 2024-11-22 20:35:11.002504, Swarm ID: 7, Reading: 201
+Time: 2024-11-22 20:35:11.090535, Swarm ID: 7, Reading: 259
+Time: 2024-11-22 20:35:11.410972, Swarm ID: 7, Reading: 221
+Time: 2024-11-22 20:35:11.736878, Swarm ID: 7, Reading: 177
+Time: 2024-11-22 20:35:15.770265, Swarm ID: 7, Reading: 207
+Time: 2024-11-22 20:35:15.805008, Swarm ID: 7, Reading: 205
+Time: 2024-11-22 20:35:15.993238, Swarm ID: 7, Reading: 268
+Time: 2024-11-22 20:35:16.093721, Swarm ID: 7, Reading: 289
+Time: 2024-11-22 20:35:16.200491, Swarm ID: 7, Reading: 289
+Time: 2024-11-22 20:35:16.315098, Swarm ID: 7, Reading: 289
+Time: 2024-11-22 20:35:16.428286, Swarm ID: 7, Reading: 290
+Time: 2024-11-22 20:35:16.529472, Swarm ID: 7, Reading: 286
+Time: 2024-11-22 20:35:16.635504, Swarm ID: 7, Reading: 284
+Time: 2024-11-22 20:35:16.730698, Swarm ID: 7, Reading: 285
+Time: 2024-11-22 20:35:16.840456, Swarm ID: 7, Reading: 285
+Time: 2024-11-22 20:35:17.072521, Swarm ID: 7, Reading: 285
+
+IP: 172.20.10.4
+Time: 2024-11-22 20:35:10.394412, Swarm ID: 4, Reading: 202
+Time: 2024-11-22 20:35:10.495166, Swarm ID: 4, Reading: 181
+Time: 2024-11-22 20:35:12.303953, Swarm ID: 4, Reading: 220
+Time: 2024-11-22 20:35:12.318173, Swarm ID: 4, Reading: 149
+Time: 2024-11-22 20:35:13.105833, Swarm ID: 4, Reading: 216
+Time: 2024-11-22 20:35:13.784238, Swarm ID: 4, Reading: 224
+Time: 2024-11-22 20:35:13.785438, Swarm ID: 4, Reading: 252
+Time: 2024-11-22 20:35:13.808395, Swarm ID: 4, Reading: 226
+Time: 2024-11-22 20:35:13.818458, Swarm ID: 4, Reading: 252
+Time: 2024-11-22 20:35:13.840650, Swarm ID: 4, Reading: 244
+Time: 2024-11-22 20:35:13.885384, Swarm ID: 4, Reading: 248
+Time: 2024-11-22 20:35:13.975942, Swarm ID: 4, Reading: 260
+Time: 2024-11-22 20:35:13.981895, Swarm ID: 4, Reading: 253
+Time: 2024-11-22 20:35:14.107132, Swarm ID: 4, Reading: 256
+Time: 2024-11-22 20:35:14.281694, Swarm ID: 4, Reading: 260
+Time: 2024-11-22 20:35:14.353534, Swarm ID: 4, Reading: 259
+Time: 2024-11-22 20:35:14.451756, Swarm ID: 4, Reading: 258
+Time: 2024-11-22 20:35:14.552487, Swarm ID: 4, Reading: 256
+Time: 2024-11-22 20:35:15.946563, Swarm ID: 4, Reading: 230
+
+IP: 172.20.10.6
+Time: 2024-11-22 20:35:10.626422, Swarm ID: 6, Reading: 197
+Time: 2024-11-22 20:35:10.990807, Swarm ID: 6, Reading: 202
+Time: 2024-11-22 20:35:11.036464, Swarm ID: 6, Reading: 194
+Time: 2024-11-22 20:35:11.104917, Swarm ID: 6, Reading: 211
+Time: 2024-11-22 20:35:11.422212, Swarm ID: 6, Reading: 208
+Time: 2024-11-22 20:35:11.538261, Swarm ID: 6, Reading: 192
+Time: 2024-11-22 20:35:11.763697, Swarm ID: 6, Reading: 184
+Time: 2024-11-22 20:35:12.228271, Swarm ID: 6, Reading: 193
+Time: 2024-11-22 20:35:12.265706, Swarm ID: 6, Reading: 180
+Time: 2024-11-22 20:35:12.777447, Swarm ID: 6, Reading: 159
+Time: 2024-11-22 20:35:12.921286, Swarm ID: 6, Reading: 163
+Time: 2024-11-22 20:35:13.003725, Swarm ID: 6, Reading: 160
+Time: 2024-11-22 20:35:13.093813, Swarm ID: 6, Reading: 139
+Time: 2024-11-22 20:35:14.783771, Swarm ID: 6, Reading: 216
+Time: 2024-11-22 20:35:14.903327, Swarm ID: 6, Reading: 216
+Time: 2024-11-22 20:35:15.730644, Swarm ID: 6, Reading: 217
+Time: 2024-11-22 20:35:15.737871, Swarm ID: 6, Reading: 218
+Time: 2024-11-22 20:35:15.744834, Swarm ID: 6, Reading: 213
+Time: 2024-11-22 20:35:15.752370, Swarm ID: 6, Reading: 205
+Time: 2024-11-22 20:35:15.769589, Swarm ID: 6, Reading: 193
+Time: 2024-11-22 20:35:15.793063, Swarm ID: 6, Reading: 202
+Time: 2024-11-22 20:35:15.988503, Swarm ID: 6, Reading: 209
