@@ -1,14 +1,18 @@
 # Multi-ESP Light Intensity Competition System with Raspberry Pi 5 Real-Time Data Logger
 
-A distributed IoT system where multiple ESP8266 devices compete for master status based on light intensity readings, with real-time data visualization and logging on a Raspberry Pi 5.
+A distributed IoT system where three ESP8266 devices compete for master status based on light intensity readings, with real-time data visualization and logging on a Raspberry Pi 5.
+
+## Demo Video
+
+A demonstration of the system in operation is available at: [https://youtu.be/oAh9-jO0_ec](https://youtu.be/oAh9-jO0_ec)
 
 ## System Overview
 
-This system implements a competitive swarm behavior where multiple ESP8266 devices equipped with light sensors compete to become the "master" device based on their light intensity readings. The device with the highest light reading becomes the master and communicates its status to a Raspberry Pi 5, which provides real-time data visualization and logging.
+This system implements a competitive swarm behavior where three ESP8266 devices equipped with light sensors compete to become the "master" device based on their light intensity readings. The device with the highest light reading becomes the master and communicates its status to a Raspberry Pi 5, which provides real-time data visualization and logging.
 
 ### Key Features
 
-- **Competitive Swarm Behavior**: Multiple ESP8266 devices compete for master status
+- **Competitive Swarm Behavior**: Three ESP8266 devices compete for master status
 - **Real-time Data Visualization**: Live graphs showing light readings and master durations
 - **Automatic Data Logging**: Timestamped logs of all device activities
 - **System Reset Capability**: Button-triggered system reset with LED indication
@@ -193,86 +197,3 @@ The Raspberry Pi provides two real-time graphs:
    - All ESP devices return to master state
    - Competition resumes immediately
    - Previous logs are preserved
-
-### Troubleshooting
-
-#### Common Issues
-
-1. **ESP8266 not connecting to WiFi**
-   - Verify network credentials
-   - Check signal strength
-   - Ensure stable power supply
-
-2. **No data received on Raspberry Pi**
-   - Verify all devices on same network
-   - Check UDP port configuration
-   - Ensure firewall allows UDP traffic
-
-3. **GPIO errors on Raspberry Pi**
-   - Verify GPIO permissions
-   - Check hardware connections
-   - Update gpiod library if needed
-
-#### Debug Information
-
-- **ESP8266 Serial Output**: Shows WiFi status, swarm ID, and communication
-- **Raspberry Pi Console**: Displays received messages and system status
-- **Log Files**: Detailed timestamped data for analysis
-
-## Demo Video
-
-A demonstration of the system in operation is available at: [https://youtu.be/oAh9-jO0_ec](https://youtu.be/oAh9-jO0_ec)
-
-## Technical Specifications
-
-### ESP8266 Specifications
-- **Microcontroller**: ESP8266
-- **Operating Voltage**: 3.3V
-- **WiFi**: 802.11 b/g/n
-- **Analog Input**: 10-bit ADC (0-1023)
-- **Digital I/O**: Multiple GPIO pins
-
-### Raspberry Pi 5 Specifications
-- **Processor**: ARM Cortex-A76
-- **RAM**: 4GB/8GB options
-- **GPIO**: 40-pin header
-- **Network**: WiFi 6, Gigabit Ethernet
-- **Operating System**: Raspberry Pi OS
-
-### Communication Specifications
-- **Protocol**: UDP
-- **Port**: 4210
-- **Message Format**: Custom delimiters
-- **Broadcast**: Enabled for device discovery
-
-## File Structure
-
-```
-├── ESP_code/
-│   └── ESP_code.ino          # ESP8266 firmware
-├── main.py                   # Raspberry Pi main application
-├── master_log_*.txt          # Generated log files
-├── README.md                 # This file
-└── README.pdf               # Original project documentation
-```
-
-## Contributing
-
-This project demonstrates IoT swarm behavior and real-time data visualization. Contributions for improvements in:
-
-- Communication reliability
-- Data visualization enhancements
-- Additional sensor support
-- Performance optimizations
-
-are welcome.
-
-## License
-
-This project is developed for educational and research purposes in IoT systems and distributed computing.
-
-## Acknowledgments
-
-- ESP8266 community for WiFi and UDP libraries
-- Raspberry Pi Foundation for GPIO and system support
-- Matplotlib community for data visualization tools
